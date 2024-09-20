@@ -156,3 +156,6 @@ ul {
 
 /* Page Specific CSS */
 /* Home Page CSS */
+#section-1 {
+    padding: 50px 0px;
+}
